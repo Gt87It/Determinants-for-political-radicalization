@@ -6,6 +6,8 @@ The increasing ideological polarization of political debates and the rising freq
 
 This project aims to examine the determinants of terrorist radicalization as theorized by social and psychological literature, and to identify which factors have an actual explanatory power regarding the approval of terrorism as a tool for political, ideological, or religious struggle.
 
+To achieve this, a large, high-quality dataset—long recognized in social research—was used, and supervised learning techniques were applied to analyze the data.
+
 # Data and Methodology
 
 A high-quality public dataset was used: the World Values Survey.
