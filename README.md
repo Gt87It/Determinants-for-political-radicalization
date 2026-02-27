@@ -1,4 +1,4 @@
-# Determinants-of-political-radicalization
+# Determinants of political radicalization
 
 # Project Overview
 
